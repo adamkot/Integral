@@ -1,0 +1,14 @@
+C:\Users\Adam\source\repos\Całka\Całka\bin\Debug\Całka.exe.config
+C:\Users\Adam\source\repos\Całka\Całka\bin\Debug\Całka.exe
+C:\Users\Adam\source\repos\Całka\Całka\bin\Debug\Całka.pdb
+C:\Users\Adam\source\repos\Całka\Całka\obj\Debug\Całka.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\Całka\Całka\obj\Debug\Całka.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\Całka\Całka\obj\Debug\Całka.exe
+C:\Users\Adam\source\repos\Całka\Całka\obj\Debug\Całka.pdb
+C:\Users\Adam\Uczelnia\Całka\Całka\bin\Debug\Całka.exe.config
+C:\Users\Adam\Uczelnia\Całka\Całka\bin\Debug\Całka.exe
+C:\Users\Adam\Uczelnia\Całka\Całka\bin\Debug\Całka.pdb
+C:\Users\Adam\Uczelnia\Całka\Całka\obj\Debug\Całka.csprojAssemblyReference.cache
+C:\Users\Adam\Uczelnia\Całka\Całka\obj\Debug\Całka.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Uczelnia\Całka\Całka\obj\Debug\Całka.exe
+C:\Users\Adam\Uczelnia\Całka\Całka\obj\Debug\Całka.pdb
