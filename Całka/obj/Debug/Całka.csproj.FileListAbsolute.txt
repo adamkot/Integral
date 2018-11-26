@@ -12,3 +12,10 @@ C:\Users\Adam\Uczelnia\Całka\Całka\obj\Debug\Całka.csprojAssemblyReference.ca
 C:\Users\Adam\Uczelnia\Całka\Całka\obj\Debug\Całka.csproj.CoreCompileInputs.cache
 C:\Users\Adam\Uczelnia\Całka\Całka\obj\Debug\Całka.exe
 C:\Users\Adam\Uczelnia\Całka\Całka\obj\Debug\Całka.pdb
+C:\Users\Adam\Documents\Uczelnia\Algorytmy\Całka\Całka\bin\Debug\Całka.exe.config
+C:\Users\Adam\Documents\Uczelnia\Algorytmy\Całka\Całka\bin\Debug\Całka.exe
+C:\Users\Adam\Documents\Uczelnia\Algorytmy\Całka\Całka\bin\Debug\Całka.pdb
+C:\Users\Adam\Documents\Uczelnia\Algorytmy\Całka\Całka\obj\Debug\Całka.csprojAssemblyReference.cache
+C:\Users\Adam\Documents\Uczelnia\Algorytmy\Całka\Całka\obj\Debug\Całka.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Documents\Uczelnia\Algorytmy\Całka\Całka\obj\Debug\Całka.exe
+C:\Users\Adam\Documents\Uczelnia\Algorytmy\Całka\Całka\obj\Debug\Całka.pdb
